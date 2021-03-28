@@ -2,6 +2,10 @@
 
 my personal startpage with dark mode support. (I'm learning CSS).
 
+## preview
+
+[https://faenrir.github.io/startpage/](https://faenrir.github.io/startpage/)
+
 ## usage
 
 1. move the files to ~/.config/startpage/
